@@ -7,7 +7,7 @@ public class Ascii {
 
         int A = ch;
 
-        System.out.println("Ascii value of character"+ ch + "is"+ A);
+        System.out.println("Ascii value of character"+ ch + "is"+ A);;
     }
     
 }
