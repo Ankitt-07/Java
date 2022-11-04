@@ -1,3 +1,3 @@
 # java
-
-#begin with java
+All journey about java and codechef
+#codechef
