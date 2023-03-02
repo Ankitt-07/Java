@@ -1,3 +1,2 @@
 # java
-All journey about java and codechef
-#codechef
+ALL JAVA LEARNING PREPE IS HERE
