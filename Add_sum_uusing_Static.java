@@ -9,7 +9,7 @@ public class Add_integer {
      {
         int num1 =12, num2 = 14, sum;
         sum = num1 + num2 ;
-        System.out.println(sum);,;;;
+        System.out.println(sum);
           
      }
 }
