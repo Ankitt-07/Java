@@ -18,7 +18,7 @@ public class upper_case {
 		}
 		else
 		{
-			System.out.println(-1);;
+			System.out.println(-1);;;
 		
 		
 	}
