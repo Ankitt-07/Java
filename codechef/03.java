@@ -9,7 +9,7 @@ public class sum_diff {
         if(n>m){
             System.out.println("This shows that nuber is greter  " + (n-m));;
         }else{
-            System.out.println("This shows that nuber is not  greter  " + (n+m));;
+            System.out.println("This shows that nuber is not  greter  " + (n+m));;;
         }
     }
 }
