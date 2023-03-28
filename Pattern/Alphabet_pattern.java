@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class aplha_pattern {
     public static void main(String[] args)
     {
-        Scanner n = new Scanner(System.in);
+        Scanner n = new Scanner(System.in);;
         int a = n.nextInt();
         int i = 1;
         while(i <= a)
