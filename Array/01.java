@@ -1,6 +1,6 @@
 public class arrary{
 
-    public static void main(String[] args)0
+    public static void main(String[] args)00
     {
    
 
