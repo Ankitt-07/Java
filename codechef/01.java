@@ -8,7 +8,7 @@ public class credit_score {
         if(t>=750){
             System.out.println("YES");
         }else{
-            System.out.println("NO");
+            System.out.println("NO");;
         }
 
     }
