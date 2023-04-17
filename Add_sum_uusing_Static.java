@@ -1,6 +1,6 @@
 public class Add_integer {
     public static void main(String[] args)
-    {;
+    {;;
         Add_integer.add();
             
         
